@@ -1,3 +1,7 @@
+Technical Article:  
+Designing an AMBA-Compatible MRAM AXI Slave Controller for Modern SoCs  
+https://medium.com/@ace.lin0121/designing-an-amba-compatible-mram-axi-slave-controller-for-modern-socs-3cade20bce41
+
 MRAM AXI Slave Controller
 =========================
 
