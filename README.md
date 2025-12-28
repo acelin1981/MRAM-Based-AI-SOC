@@ -86,7 +86,7 @@ Possible future updates may include:
 Versioning
 ----------
 
-v1.0.0 – Initial public release (documentation and reference RTL)
+v1.0.0 – Initial public release (documentation, reference AXI MRAM Slave and example MRAM-Based SOC RTL)
 
 Contact
 -------
