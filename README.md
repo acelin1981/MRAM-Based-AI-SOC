@@ -91,6 +91,4 @@ Default arguments used in `run.bat`:
 ---
 
 ## License
-Copyright (c) acelin1981  
-Academic/Research use is permitted (non-commercial) with attribution.  
-Commercial use requires prior written permission from the copyright holder.
+This project is licensed under the MIT License. See LICENSE for details.  
