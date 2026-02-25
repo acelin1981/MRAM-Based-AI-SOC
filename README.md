@@ -12,7 +12,7 @@ This repository contains a SystemVerilog implementation of an AMBA AXI-compatibl
 The project includes:
 - AXI NoC (2 masters / 3 slaves) integration example
 - MRAM controller + MRAM behavioral model
-- DDR4 / SRAM / generic RAM slave models
+- DDR4 / SRAM models
 - System-level memory power monitor
 - Testbench for frame-based workload simulation (plusargs configurable)
 
