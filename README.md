@@ -32,7 +32,7 @@ The project includes:
 │   ├── soc_mem_power_monitor.sv
 │   └── npu_trace_axi_master_no_reuse.sv
 ├── tb/                  # Testbench
-│   └── testbench_acelin1981.sv
+│   └── testbench.sv
 ├── rtl.f                # Icarus Verilog filelist
 ├── run.bat              # One-click compile + run on Windows
 └── README.md
