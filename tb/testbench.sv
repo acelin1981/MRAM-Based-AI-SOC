@@ -776,9 +776,6 @@ npu_trace_axi_master_no_reuse #(
   // ============================================================
   // MRAM POWER-GATING (Level A): affects power model only
   // ============================================================
-  // 之前 TB 在「frame 計算期間」把 mram_pwr_on 強制為 1，
-  // 所以你在 GTWave 會看到中間沒有 access MRAM 但仍然是 pwr_on。
-  // 這版改成：AUTO 模式下只要真的有 S0(MRAM) 的 in-flight 存取才會開。
   typedef enum logic [1:0] {
     MRAM_PWR_AUTO = 2'd0,
     MRAM_PWR_ON   = 2'd1,
