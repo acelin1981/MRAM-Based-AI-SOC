@@ -1,4 +1,5 @@
 # AMBA-Compatible MRAM AXI Slave Controller (SystemVerilog)
+Publish:https://www.ijcaonline.org/archives/volume187/number90/system-level-energy-comparison-of-dram-and-mram-for-framebased-mobilenetv3-inference/
 
 ## Technical Article:
 Designing an AMBA-Compatible MRAM AXI Slave Controller for Modern SoCs  
